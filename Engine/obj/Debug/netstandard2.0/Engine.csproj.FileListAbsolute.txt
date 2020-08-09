@@ -1,0 +1,9 @@
+C:\Users\Stoyan\source\repos\Fighting Game\Engine\bin\Debug\netstandard2.0\Engine.deps.json
+C:\Users\Stoyan\source\repos\Fighting Game\Engine\bin\Debug\netstandard2.0\Engine.dll
+C:\Users\Stoyan\source\repos\Fighting Game\Engine\bin\Debug\netstandard2.0\Engine.pdb
+C:\Users\Stoyan\source\repos\Fighting Game\Engine\obj\Debug\netstandard2.0\Engine.csprojAssemblyReference.cache
+C:\Users\Stoyan\source\repos\Fighting Game\Engine\obj\Debug\netstandard2.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan\source\repos\Fighting Game\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfoInputs.cache
+C:\Users\Stoyan\source\repos\Fighting Game\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfo.cs
+C:\Users\Stoyan\source\repos\Fighting Game\Engine\obj\Debug\netstandard2.0\Engine.dll
+C:\Users\Stoyan\source\repos\Fighting Game\Engine\obj\Debug\netstandard2.0\Engine.pdb

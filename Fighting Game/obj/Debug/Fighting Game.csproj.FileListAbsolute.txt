@@ -1,0 +1,14 @@
+C:\Users\Stoyan\source\repos\Fighting Game\Fighting Game\bin\Debug\Fighting Game.exe.config
+C:\Users\Stoyan\source\repos\Fighting Game\Fighting Game\bin\Debug\Fighting Game.exe
+C:\Users\Stoyan\source\repos\Fighting Game\Fighting Game\bin\Debug\Fighting Game.pdb
+C:\Users\Stoyan\source\repos\Fighting Game\Fighting Game\obj\Debug\Fighting Game.csprojAssemblyReference.cache
+C:\Users\Stoyan\source\repos\Fighting Game\Fighting Game\obj\Debug\Fighting_Game.FormHeroCreation.resources
+C:\Users\Stoyan\source\repos\Fighting Game\Fighting Game\obj\Debug\Fighting_Game.Properties.Resources.resources
+C:\Users\Stoyan\source\repos\Fighting Game\Fighting Game\obj\Debug\Fighting Game.csproj.GenerateResource.cache
+C:\Users\Stoyan\source\repos\Fighting Game\Fighting Game\obj\Debug\Fighting Game.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan\source\repos\Fighting Game\Fighting Game\obj\Debug\Fighting Game.exe
+C:\Users\Stoyan\source\repos\Fighting Game\Fighting Game\obj\Debug\Fighting Game.pdb
+C:\Users\Stoyan\source\repos\Fighting Game\Fighting Game\bin\Debug\Engine.dll
+C:\Users\Stoyan\source\repos\Fighting Game\Fighting Game\bin\Debug\Engine.pdb
+C:\Users\Stoyan\source\repos\Fighting Game\Fighting Game\obj\Debug\Fighting Game.csproj.CopyComplete
+C:\Users\Stoyan\source\repos\Fighting Game\Fighting Game\obj\Debug\Fighting_Game.StartingForm.resources
